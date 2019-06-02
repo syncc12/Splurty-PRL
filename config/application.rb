@@ -20,6 +20,6 @@ module Splurty
     config.assets.paths << "#{Rails.root}/app/assets/fonts"
 
     # Precompile additional assets
-    config.assets.precompile += %w( .woff .woff2)
+    config.assets.precompile += %w( .woff .woff2 )
   end
 end
