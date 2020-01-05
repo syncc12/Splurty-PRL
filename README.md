@@ -3,7 +3,7 @@
 ## Application:<br>
 This application is located here: https://splurty-patrick-lyden.herokuapp.com
 
-**Purpose:**<br>
+## Purpose:<br>
 This project is an application that randomly displays quotes that were submitted by the application's users. 
 
 **Overview:**<br>
